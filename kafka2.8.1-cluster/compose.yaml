@@ -1,3 +1,5 @@
+#### /data/app/kafka/kafka1/kafka-data 这个目录需要执行chmod -R 777 /data/app/kafka/kafka1/kafka-data
+
 version: '3.8'
 services:
   zookeeper:
